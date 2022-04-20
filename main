@@ -1,0 +1,8 @@
+from msilib.schema import AppId
+from textwrap import indent
+from webbrowser import get
+import requests;
+import json
+import sys
+import random
+from types import SimpleNamespace

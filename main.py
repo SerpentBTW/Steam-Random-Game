@@ -33,5 +33,3 @@ while (x < gameCount):
 rand = random.randint(0, len(gameList))
 print(gameList[rand])
 
-print('test')
-print('hello')
